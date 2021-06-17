@@ -1,0 +1,225 @@
+/* Mobile Styles Stats Here*/
+@media only screen and (min-width:200px) and (max-width:599px){/**/
+	a{
+		color:#000;
+		font-size: 0.8em;
+		font-family: Arial;
+		float:right;
+		padding:10px 25px 10px 25px;
+		width: 8%;
+		margin-top: 450px;
+		background: rgba(246,238,173,.6);
+		box-shadow: 0.1px 0.5px 3px 0.1px #000; 
+		border-radius: 15px;
+		margin-right:4%;
+		border:2px solid #ccc;		
+   }
+
+   	/*Links end here*/
+	/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 4.5%;
+		margin-right:60px;
+		overflow: hidden;
+		height:1500px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		border-radius:15px;
+	    overflow:hidden;
+	    width:89%;
+	   }
+	/*Ending of body white and blue*/
+	/*Ending of body white and blue*/
+
+		/*Header Image*/
+		.welcome_uiux{
+			background:url(../images/construction_small.png)no-repeat;
+			width: 130%;
+			height: 1000px;
+			margin-top: -2px;
+			margin-bottom:80px;
+			margin-left:-5.5%;
+		   }
+	/*End of header*/
+
+	/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.6em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		   }
+
+		footer{
+			background:#000;
+			height:80px;
+			width:1127px;
+			margin-left:-20px;
+			margin-top:130px;
+			padding-top:300px;
+		    overflow:hidden;
+		   }
+		/*End Footer*/
+
+}
+
+/*Tablet Styles Starts Here*/ 	
+@media only screen and (min-width:600px)and (max-width:800px){
+		 /*Links starts here*/
+		a{
+			color:#000;
+			font-size: 0.9em;
+			font-family: Arial;
+			float:right;
+			padding:10px 20px 10px 20px;
+			width: 70px;
+			margin-top: 450px;
+			margin-right: 10px;
+			background: rgba(246,238,173,.6);
+			box-shadow: 0.1px 0.5px 3px 0.1px #000;
+			border-radius: 20px;
+			border:none;
+			border-left:2px solid #ccc;
+			border-right:2px solid #ccc;
+		}
+	/*Links end here*/
+
+	/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 4.5%;
+		margin-right:60px;
+		overflow: hidden;
+		height:1500px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		border-radius:15px;
+	    overflow:hidden;
+	    width:89%;
+	   }
+	/*Ending of body white and blue*/
+
+		/*Header Image*/
+		.welcome_uiux{
+			background:url(../images/construction_small.png)no-repeat;
+			width: 130%;
+			height: 1000px;
+			margin-top: -2px;
+			margin-bottom:80px;
+			margin-left:-4.5%;
+		   }
+	/*End of header*/
+
+	/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.6em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		   }
+
+		footer{
+			background:#000;
+			height:80px;
+			width:100%;
+			margin-left:-20px;
+			margin-top:125px;
+			padding-top:300px;
+		    overflow:hidden;
+		   }
+		/*End Footer*/
+}
+
+
+/*Desktop Styles Starts Here*/
+
+@media only screen and (min-width:801px){
+      
+	/*Links starts here*/
+		a{
+			color:#000;
+			font-size: 0.9em;
+			font-family: Arial;
+			float:right;
+			padding:10px 20px 10px 20px;
+			width: 70px;
+			margin-top: 450px;
+			margin-right: 10px;
+			background: rgba(246,238,173,.6);
+			box-shadow: 0.1px 0.5px 3px 0.1px #000;
+			border-radius: 20px;
+			border:none;
+			border-top:2px solid #ccc;
+			text-shadow:10px 10px 10px;
+		   }
+	/*Links end here*/
+
+		/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 60px;
+		margin-right:60px;
+		overflow: hidden;
+		height:1500px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		padding-right:50px;
+	}
+	/*Ending of body white and blue*/ 
+		/*Header Image*/
+	.welcome_uiux{
+		background:url(../images/construction.png)no-repeat;
+			    width: 190%;
+				height: 760px;
+				margin-top: -2px;
+				margin-bottom:30px;
+				margin-left:-30px;
+				border-radius:0;
+	           }
+	/*End of header*/
+
+	/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.7em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		   }
+
+		footer{
+			background:#000;
+			height:100px;
+			width:1127px;
+			margin-left:-20px;
+			margin-top:350px;
+			padding-top:300px;
+		}
+		/*End Footer*/
+}
+/*Desktop Styles Ends Here*/
+}

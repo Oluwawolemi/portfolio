@@ -1,0 +1,516 @@
+
+/*Desktop Styles Starts Here*/
+@media only screen and (min-width:801px){
+/*Links starts here*/
+		a{
+			color:#000;
+			font-size: 0.9em;
+			font-family: Arial;
+			float:right;
+			padding:10px 20px 10px 20px;
+			width: 70px;
+			margin-top: 450px;
+			margin-right: 10px;
+			background: rgba(246,238,173,.6);
+			box-shadow: 0.1px 0.5px 3px 0.1px #000;
+			border-radius: 20px;
+			border:none;
+			border-top:2px solid #ccc;
+			text-shadow:10px 10px 10px;
+		   }
+	/*Links end here*/
+
+	/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 60px;
+		margin-right:60px;
+		overflow: hidden;
+		height:2360px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		padding-right:50px;
+	}
+	/*Ending of body white and blue*/ 
+
+	.portfolio{
+		margin-top:10px;
+		margin-left:70px;
+		font-family:Arial;
+		color:blue;
+		font-size:20px;
+	}
+	strong{
+		color:grey;
+	}
+	/*Header Image*/
+	.welcome_illustration{
+		background:url(../images/welcome_illustration.png)no-repeat;
+			    width: 190%;
+				height: 760px;
+				margin-top: -800px;
+				margin-bottom:30px;
+				margin-left:-30px;
+				border-radius:0;
+	}
+	/*End of header*/
+
+/*Start of Images*/
+
+/* Start of first Project*/
+.Illustration{
+	color:#05626a;
+	margin-left:41%;
+    margin-top:600px;	
+	font-size:30px;
+}
+
+.Dripp_Details{
+	float:right;
+	margin-bottom:-80px;
+	margin-right:-610px;
+	margin-top:120px;
+	width:100%;
+	font-size:.9em;
+	padding-right:80px;
+}
+
+
+	.dripp{
+		background:url(../images/dripp.png) no-repeat;
+		width:100%;
+		height:400px;
+		float: left;
+		margin-top:-60px;
+		margin-left:-5px;
+		margin-bottom:60px;
+	   }
+
+.loyloy{
+	background:url(../images/loyloy.png) no-repeat;
+	width:1000px;
+	height:500px;
+	float:right;
+	margin-right:-550px;
+	margin-bottom:-60px;
+	margin-top:-100px;
+}
+
+.loyloy_Details{
+	
+	margin-top:20px;
+	float:left;	
+	margin-left:30px;
+}
+
+.super_stricker{
+	background:url(../images/super_stricker.png)no-repeat;
+	width:100%;
+		height:400px;
+		float: left;
+		margin-top:-60px;
+		margin-left:-5px;
+		margin-bottom:60px;
+}
+
+.super_stricker_Details{
+	float:right;
+	margin-bottom:-80px;
+	margin-right:-1050px;
+	margin-top:120px;
+	width:100%;
+	font-size:.9em;
+	padding-right:80px;
+	margin-top:305px;
+}
+.micheal{
+	background:url(../images/micheal.png);
+	width:450px;
+	height:500px;
+	float:left;
+	margin-top:50px;
+}
+
+.concept{
+	background:url(../images/concept.png);
+	width:450px;
+	height:500px;
+	float:left;
+	margin-top:10px;
+
+}
+
+
+/* End oFisrt Project*/
+
+/*End of Images*/
+
+
+li{
+	color:white;
+}
+h3{
+	color: green;
+	font-family;
+	
+}
+
+.creation{
+	color:red;
+	font-size:12px;
+}
+.marquee{
+	color: #555;
+	font-family: comic sans ms regular;
+	font-size:14px;
+	width: 50px;
+	height:16px;
+
+}
+
+/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.7em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		}
+
+		footer{
+			background:#000;
+			height:100px;
+			width:1127px;
+			margin-left:-20px;
+			margin-top:1300px;
+			padding-top:300px;
+		}
+		/*End Footer*/
+}
+/*Desktop Styles Ends Here*/
+
+
+/*Tablet Styles Starts Here*/ 	
+@media only screen and (min-width:600px)and (max-width:800px){
+		 /*Links starts here*/
+		a{
+			color:#000;
+			font-size: 0.9em;
+			font-family: Arial;
+			float:right;
+			padding:10px 20px 10px 20px;
+			width: 70px;
+			margin-top: 450px;
+			margin-right: 10px;
+			margin-bottom:150px;
+			background: rgba(246,238,173,.6);
+			box-shadow: 0.1px 0.5px 3px 0.1px #000;
+			border-radius: 20px;
+			border:none;
+			border-left:2px solid #ccc;
+			border-right:2px solid #ccc;
+		}
+	/*Links end here*/
+
+	/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 4.5%;
+		margin-right:60px;
+		overflow: hidden;
+		height:2800px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		border-radius:15px;
+	    overflow:hidden;
+	    width:89%;
+	   }
+	/*Ending of body white and blue*/ 
+
+
+		strong{
+			color:grey;
+		}
+		/*Header Image*/
+		.welcome_illustration{
+			background:url(../images/welcome_illustration.png)no-repeat;
+			width: 120%;
+			height: 1000px;
+			margin-top: -1014px;
+			margin-bottom:80px;
+			margin-left:-7%;
+		   }
+
+	/*End of header*/
+
+/*Start of Images and details*/
+
+/* Start of first Project*/
+
+	.Illustration{
+			color:#000;
+			margin-left:39%;
+			font-size:28px;
+			margin-bottom:70px;
+		   }
+
+  
+	.dripp{
+		background:url(../images/dripp.png) no-repeat;
+		width:100%;
+		height:400px;
+		float: left;
+		margin-top:-70px;
+		margin-left:-5px;
+		margin-bottom:60px;
+	   }
+
+	.Dripp_Details{
+			 color:red;
+			 font-size:.9em;
+			 margin-bottom:50px;
+			 margin-right:250px; 		
+	         }
+
+	 .loyloy{
+		background:url(../images/loyloy.png) no-repeat;
+		width:100%;
+		height:400px;
+		float: left;
+		margin-top:-45px;
+		margin-left:50px;
+		margin-bottom:60px;
+
+	   }
+
+	.loyloy_Details{
+		      color:red;
+			 font-size:.9em;
+			 margin-bottom:50px;
+			 margin-right:250px;
+	   		}
+	.super_stricker{
+		background:url(../images/super_stricker.png)no-repeat;
+		width:100%;
+		height:400px;
+		float: left;
+		margin-top:-45px;
+		margin-left:-5px;
+		margin-bottom:60px;
+	   }
+
+  .super_stricker_Details{
+			 color:red;
+			 font-size:.9em;
+			 margin-bottom:50px;
+			 margin-right:250px;
+		
+			}
+/*End of Images*/
+
+		li{
+			color:white;
+		}
+		h3{
+			color: #2e3192;
+			font-family;
+		   }
+
+		.creation{
+			color:#2e3192;
+			font-size:13px;
+		    }
+		.marquee{
+			color: #555;
+			font-family: comic sans ms regular;
+			font-size:14px;
+			width: 100px;
+			height:16px;
+		   }
+		
+
+		/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.6em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		   }
+
+		footer{
+			background:#000;
+			height:100px;
+			width:1127px;
+			margin-left:-20px;
+			margin-top:-500px;
+			padding-top:300px;
+		    overflow:hidden;
+		   }
+		/*End Footer*/
+	}
+/* mobile styles starts here*/
+@media only screen and (min-width:200px) and (max-width:599px){
+	/*Links starts here*/
+		a{
+		color:#000;
+		font-size: 0.8em;
+		font-family: Arial;
+		float:right;
+		padding:10px 25px 10px 25px;
+		width: 8%;
+		margin-top: 450px;
+		background: rgba(246,238,173,.6);
+		box-shadow: 0.1px 0.5px 3px 0.1px #000; 
+		border-radius: 15px;
+		margin-right:4%;
+		border:2px solid #ccc;		
+   }
+	/*Links end here*/
+	/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 4.5%;
+		margin-right:60px;
+		overflow: hidden;
+		height:2700px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		border-radius:15px;
+	    overflow:hidden;
+	    width:89%;
+	   }
+	/*Ending of body white and blue*/ 
+	
+	/*Header Image*/
+		.welcome_illustration{
+			background:url(../images/welcome_illustration.png)no-repeat;
+			width: 120%;
+			height: 1100px;
+			margin-top: -958px;
+			margin-bottom:80px;
+			margin-left:-7%;
+		   }
+	/*End of header*/  
+
+	/* Start of first Project*/
+	.Illustration{
+			color:#000;
+			margin-left:33%;
+			font-size:28px;
+			margin-bottom:70px;
+			margin-top:602px;
+		   }
+		    
+	.dripp{
+		background:url(../images/dripp.png) no-repeat;
+		width:100%;
+		height:400px;
+		float: left;
+		margin-top:-265px;
+		margin-left:-10px;
+		margin-bottom:60px;
+	   }
+
+	.Dripp_Details{
+			  font-size:.5em;
+			 margin-bottom:50px;
+			 margin-right:250px; 		
+	         }
+
+	 .loyloy{
+		background:url(../images/loyloy.png) no-repeat;
+		width:120%;
+		height:400px;
+		float: left;
+		margin-top:-45px;
+		margin-left:-50px;
+		margin-bottom:60px;
+
+	   }
+
+	.loyloy_Details{
+		      font-size:.5em;
+			  margin-bottom:50px;
+			  margin-right:250px;;
+	   		}
+	.super_stricker{
+		background:url(../images/super_stricker.png)no-repeat;
+		width:100%;
+		height:400px;
+		float: left;
+		margin-top:-45px;
+		margin-left:-10px;
+		margin-bottom:60px;
+	   }
+
+.super_stricker_Details{
+			 font-size:.5em;
+			 margin-bottom:50px;
+			 margin-right:250px;
+			}
+
+li{
+	color:white;
+}
+h3{
+	color: green;
+	font-family;
+	
+}
+
+.creation{
+	color:red;
+	font-size:12px;
+}
+.marquee{
+	color: #555;
+	font-family: comic sans ms regular;
+	font-size:12px;
+	width: 50px;
+	height:16px;
+
+}
+	/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.6em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		   }
+
+		footer{
+			background:#000;
+			height:100px;
+			width:1127px;
+			margin-left:-20px;
+			margin-top:-400px;
+			padding-top:300px;
+		    overflow:hidden;
+		   }
+		/*End Footer*/
+}
+
+

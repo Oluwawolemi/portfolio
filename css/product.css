@@ -1,0 +1,738 @@
+
+/*Desktop Styles Starts Here*/
+
+@media only screen and (min-width:801px){
+      
+	/*Links starts here*/
+		a{
+			color:#000;
+			font-size: 0.9em;
+			font-family: Arial;
+			float:right;
+			padding:10px 20px 10px 20px;
+			width: 70px;
+			margin-top: 450px;
+			margin-right: 10px;
+			background: rgba(246,238,173,.6);
+			box-shadow: 0.1px 0.5px 3px 0.1px #000;
+			border-radius: 20px;
+			border:none;
+			border-top:2px solid #ccc;
+			text-shadow:10px 10px 10px;
+		   }
+	/*Links end here*/
+
+	/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	
+	
+	
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 4.5%;
+		margin-right:60px;
+		overflow: hidden;
+		height:3800px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		border-radius:15px;
+	    overflow:hidden;
+	    width:89%;
+	   }
+	   
+	
+	/*Ending of body white and blue*/ 
+
+
+		strong{
+			color:grey;
+		}
+		/*Header Image*/
+		.P_design{
+			background:url(../images/P_design.png)no-repeat;
+			width: 120%;
+			height: 750px;
+			margin-top: -955px;
+			margin-bottom:30px;
+			margin-left:-19%;
+			border-radius:0;
+		}
+
+	/*End of header*/
+
+/*Start of Images*/
+
+/* Start of first Project*/
+	.product{
+			 color:#000;
+			 margin-left:40%;
+			 margin-top:790px;	
+			 font-size:2em;
+			 margin-bottom:50px;
+	         }
+
+
+		.TomTom{
+			background:url(../images/TomTom.png)  no-repeat;
+			width:350px;
+			height:500px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:100px;
+			margin-left:10px;
+		   }
+		.bag{
+			background:url(../images/tom.png)no-repeat;
+			width:350px;
+			height:500px;
+			float:right;
+			margin-top:-485px;
+			margin-right:-50px;
+			padding-right:80px;
+		   }
+		.box{
+			background:url(../images/box_tom.png)no-repeat;
+			width:350px;
+			height:500px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-50px;
+			margin-left:10px;
+			
+		}
+	.micheal{
+			background:url(../images/micheal.png)no-repeat;
+			width:350px;
+			height:500px;
+			float:right;
+			margin-top:-500px;
+			margin-right:-50px;
+			padding-right:80px;
+			
+		}
+	.board{
+			background:url(../images/billboard.png)no-repeat;
+			width:350px;
+			height:500px;	
+			margin-top:1000px;
+			margin-left:10px;
+		}
+
+	.concept{
+			background:url(../images/concept.png)no-repeat;
+			width:350px;
+			height:500px;
+			float:right;
+			margin-top:-500px;
+			margin-right:30px;
+			margin-bottom:-100px;
+		}
+		/* End oFisrt Project*/
+		hr{
+			width:600px;
+			margin-top:-100px;
+			margin-bottom:50px;
+			color:#ccc;
+			height:3px;
+			border-radius:10px;
+
+		}
+		/*Start of Second project*/
+		.black_logo{
+		 	background:url(../images/black_logo.png)no-repeat;
+			width:450px;
+			height:500px;
+			float:left;
+			margin-top:-5px;
+			margin-right:160px;
+			margin-left:10px;
+		}
+		.baggs{
+		 	background:url(../images/baggs.png)no-repeat;
+			width:450px;
+			height:500px;
+			float:right;
+			margin-top:-510px;
+			margin-right:-70px;
+		}
+		.Sm_box{
+		 	background:url(../images/Sm_box.png)no-repeat;
+			width:450px;
+			height:500px;
+			float:left;
+			margin-top:-230px;
+			margin-right:160px;
+			margin-left:10px;
+		}
+		.pillow{
+			background:url(../images/pillow.png)no-repeat;
+			width:450px;
+			height:500px;
+			float:right;
+			margin-top:-498px;
+			margin-right:-70px;
+		}
+	
+		.water_mark{
+			background:url(../images/water_mark.png)no-repeat;
+			width:350px;
+			height:500px;
+			float:left;
+			margin-top:-200px;
+			margin-left:10px;
+		
+			
+		
+		}
+	.speech{
+			background:url(../images/speech.png)no-repeat;
+			width:350px;
+			height:500px;
+			float:right;
+			margin-top:-200px;
+			margin-right:-350px;
+		}
+/*End of Images*/
+
+		li{
+			color:white;
+		}
+		h3{
+			color: #2e3192;
+			font-family;
+			
+		}
+
+		.creation{
+			color:#2e3192;
+			font-size:13px;
+		}
+		.marquee{
+			color: #555;
+			font-family: comic sans ms regular;
+			font-size:14px;
+			width: 100px;
+			height:16px;
+		}
+		
+
+		/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.7em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		}
+
+		footer{
+			background:#000;
+			height:100px;
+			width:1127px;
+			margin-left:-20px;
+			margin-top:1100px;
+			padding-top:300px;
+		}
+		/*End Footer*/
+}
+
+/*Tablet Styles Starts Here*/ 	
+@media only screen and (min-width:600px)and (max-width:800px){
+		 /*Links starts here*/
+		a{
+			color:#000;
+			font-size: 0.9em;
+			font-family: Arial;
+			float:right;
+			padding:10px 20px 10px 20px;
+			width: 70px;
+			margin-top: 450px;
+			margin-right: 10px;
+			background: rgba(246,238,173,.6);
+			box-shadow: 0.1px 0.5px 3px 0.1px #000;
+			border-radius: 20px;
+			border:none;
+			border-left:2px solid #ccc;
+			border-right:2px solid #ccc;
+		}
+	/*Links end here*/
+
+	/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 4.5%;
+		margin-right:60px;
+		overflow: hidden;
+		height:3500px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		border-radius:15px;
+	    overflow:hidden;
+	    width:89%;
+	   }
+	   
+	
+	/*Ending of body white and blue*/ 
+
+
+		strong{
+			color:grey;
+		}
+		/*Header Image*/
+		.P_design{
+			background:url(../images/P_design_small.png)no-repeat;
+			width: 120%;
+			height: 750px;
+			margin-top: -955px;
+			margin-bottom:30px;
+			margin-left:-10%;
+			border-radius:0;
+		   }
+	/*End of header*/
+
+	/*Start of Images*/
+
+	/* Start of first Project*/
+	.product{
+			 color:#000;
+			 margin-left:35%;
+			 margin-top:790px;	
+			 font-size:2em;
+			 margin-bottom:50px;
+	         }
+
+
+		.TomTom{
+			background:url(../images/TomTom_small.png)  no-repeat;
+			width:290px;
+			height:400px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:100px;
+			margin-left:10px;
+		   }
+		.bag{
+			background:url(../images/tom_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			float:right;
+			margin-top:-400px;
+			margin-right:-50px;
+			padding-right:80px;
+		   }
+		.box{
+			background:url(../images/box_tom_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-50px;
+			margin-left:10px;	
+		   }
+	.micheal{
+			background:url(../images/micheal_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			float:right;
+			margin-top:-400px;
+			margin-right:-50px;
+			padding-right:80px;	
+		   }
+	 .board{
+			background:url(../images/billboard_small.png)no-repeat;
+			width:290px;
+			height:400px;	
+			margin-top:780px;
+			margin-left:10px;
+		   }
+
+	.concept{
+			background:url(../images/concept_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			float:right;
+			margin-top:-394.5px;
+			margin-right:30px;
+			margin-bottom:-100px;
+		}
+		/* End oFisrt Project*/
+		hr{
+			width:400px;
+			margin-top:-100px;
+			margin-bottom:50px;
+			color:#ccc;
+			height:3px;
+			border-radius:10px;
+
+		}
+		/*Start of Second project*/
+		.black_logo{
+		 	background:url(../images/black_logo_small.png)no-repeat;
+			width:290px;
+			height:500px;
+			float:left;
+			margin-top:-5px;
+			margin-right:160px;
+			margin-left:10px;
+		}
+		.baggs{
+		 	background:url(../images/baggs_small.png)no-repeat;
+			width:290px;
+			height:500px;
+			float:right;
+			margin-top:-500px;
+			margin-right:25px;
+		}
+		.Sm_box{
+		 	background:url(../images/Sm_box_small.png)no-repeat;
+			width:290px;
+			height:500px;
+			float:left;
+			margin-top:-230px;
+			margin-right:160px;
+			margin-left:10px;
+		}
+		.pillow{
+			background:url(../images/pillow_small.png)no-repeat;
+			width:290px;
+			height:500px;
+			float:right;
+			margin-top:-498px;
+			margin-right:25px;
+		}
+	
+		.water_mark{
+			background:url(../images/water_mark_small.png)no-repeat;
+			width:290px;
+			height:500px;
+			float:left;
+			margin-top:-200px;
+			margin-left:10px;	
+		   }
+	.speech{
+			background:url(../images/speech_small.png)no-repeat;
+			width:290px;
+			height:500px;
+			float:right;
+			margin-top:-200px;
+			margin-right:-290px;
+		   }
+/*End of Images*/
+
+		li{
+			color:white;
+		}
+		h3{
+			color: #2e3192;
+			font-family;
+		   }
+
+		.creation{
+			color:#2e3192;
+			font-size:13px;
+		    }
+		.marquee{
+			color: #555;
+			font-family: comic sans ms regular;
+			font-size:14px;
+			width: 100px;
+			height:16px;
+		   }
+		
+
+		/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.6em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		   }
+
+		footer{
+			background:#000;
+			height:100px;
+			width:1127px;
+			margin-left:-20px;
+			margin-top:990px;
+			padding-top:300px;
+		    overflow:hidden;
+		   }
+		/*End Footer*/
+}
+/* Mobile Styles Stats Here*/
+@media only screen and (min-width:200px) and (max-width:599px){
+			 /*Links starts here*/
+		a{
+		color:#000;
+		font-size: 0.8em;
+		font-family: Arial;
+		float:right;
+		padding:10px 25px 10px 25px;
+		width: 8%;
+		margin-top: 450px;
+		background: rgba(246,238,173,.6);
+		box-shadow: 0.1px 0.5px 3px 0.1px #000; 
+		border-radius: 15px;
+		margin-right:4%;
+		border:2px solid #ccc;		
+   }
+	/*Links end here*/
+
+	/*here is the starting of body blue and white*/
+	.bluebody{
+		background:blue;
+		height: 620px;
+		margin-top: -160px;
+		padding-top:120px;	
+	}
+
+	.element1{
+		background:white;
+		padding-left: 20px;
+		margin-top: 110px;
+		margin-left: 4.5%;
+		margin-right:60px;
+		overflow: hidden;
+		height:5180px;
+		box-shadow: 0.1px 0.5px 27px 0.5px #000;
+		border-radius:15px;
+	    overflow:hidden;
+	    width:89%;
+	   }
+	   
+	
+	/*Ending of body white and blue*/ 
+
+
+		strong{
+			color:grey;
+		}
+		/*Header Image*/
+		.P_design{
+			background:url(../images/P_design_small.png)no-repeat;
+			width: 120%;
+			height: 750px;
+			margin-top: -955px;
+			margin-bottom:30px;
+			margin-left:-20%;
+			border-radius:0;
+		}
+
+	/*End of header*/
+
+   /*Start of Images*/
+		 hr{
+		 	display:none;
+		 }
+   /* Start of first Project*/
+	   .product{
+			 color:#000;
+			 margin-left:27%;
+			 margin-top:790px;	
+			 font-size:2em;
+			 margin-bottom:50px;
+	         }
+
+
+		.TomTom{
+			background:url(../images/TomTom_small.png)  no-repeat;
+			width:290px;
+			height:400px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:160px;
+			margin-left:70px;
+		   }
+		.bag{
+			background:url(../images/tom_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-100px;
+			margin-left:70px;
+		   }
+		.box{
+			background:url(../images/box_tom_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:10px;
+			margin-left:70px;	
+		   }
+	    .micheal{
+			background:url(../images/micheal_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:10px;
+			margin-left:70px;
+		   }
+	    .board{
+			background:url(../images/billboard_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-50px;
+			margin-left:70px;
+		   }
+
+	    .concept{
+			background:url(../images/concept_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			color:blue;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-130px;
+			margin-left:71px;
+		   }
+		/* End oFisrt Project*/
+		hr{
+			width:800px;
+			margin-top:-100px;
+			margin-bottom:50px;
+			color:#ccc;
+			height:3px;
+			border-radius:10px;
+		   }
+		/*Start of Second project*/
+		.black_logo{
+		 	background:url(../images/black_logo_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-50px;
+			margin-left:70px;
+		   }
+		.baggs{
+		 	background:url(../images/baggs_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-130px;
+			margin-left:70px;
+		   }
+		.Sm_box{
+		 	background:url(../images/Sm_box_small.png)no-repeat;
+		    width:290px;
+			height:400px;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-130px;
+			margin-left:70px;
+		   }
+		.pillow{
+			background:url(../images/pillow_small.png)no-repeat;
+		    width:290px;
+			height:400px;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-130px;
+			margin-left:70px;
+		   }
+	
+		.water_mark{
+			background:url(../images/water_mark_small.png)no-repeat;
+			width:290px;
+			height:400px;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-130px;
+			margin-left:70px;	
+		   }
+	  .speech{
+			background:url(../images/speech_small.png)no-repeat;
+		    width:290px;
+			height:400px;
+			font-size:20px;
+			float: left;
+			margin-right:160px;
+			margin-top:-130px;
+			margin-left:70px;
+		   }
+/*End of Images*/
+
+		li{
+			color:white;
+		    }
+		h3{
+			color: #2e3192;
+			font-family;
+		   }
+
+	   .creation{
+			color:#2e3192;
+			font-size:13px;
+		    }
+		.marquee{
+			color: #555;
+			font-family: comic sans ms regular;
+			font-size:14px;
+			width: 100px;
+			height:16px;
+		   }
+		
+
+		/*Starting of Footer*/
+		.infooter{
+			color:#fff;
+			font-size: 0.6em;
+			font-family: Arial, Time, serif;
+			padding-left:20px;
+		   }
+
+		footer{
+			background:#000;
+			height:50px;
+			width:1127px;
+			margin-left:-20px;
+			padding-top:270px;
+		    overflow:hidden;
+		   }
+		/*End Footer*/
+}
+}
